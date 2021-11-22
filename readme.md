@@ -1,0 +1,1 @@
+Leia para aprender a como configurar sua máquina para executar o script
